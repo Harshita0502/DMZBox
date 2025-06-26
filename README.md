@@ -66,12 +66,6 @@ dmzBox/
 
 ---
 
-## Installation:
-```bash
-pip3 install -r requirements.txt
-sudo apt install binwalk exiftool wget firejail
-```
-
 ## 🔒 Sandbox Security Model
 
 DMZBox leverages **Firejail** to contain untrusted operations:
@@ -111,7 +105,8 @@ When sandbox mode is enabled, all subprocesses run within the Firejail profile, 
 ### Install Python Dependencies
 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
+sudo apt install binwalk exiftool wget firejail
 ```
 
 ## 🚀 Usage
