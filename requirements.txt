@@ -1,0 +1,5 @@
+tk
+PyPDF2
+yara-python
+pandas
+requests
