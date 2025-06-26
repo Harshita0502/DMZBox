@@ -66,6 +66,12 @@ dmzBox/
 
 ---
 
+## Installation:
+```bash
+pip3 install -r requirements.txt
+sudo apt install binwalk exiftool wget firejail
+```
+
 ## 🔒 Sandbox Security Model
 
 DMZBox leverages **Firejail** to contain untrusted operations:
