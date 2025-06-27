@@ -138,6 +138,32 @@ Reports are saved to the reports/ directory, containing:
   - Extracted hidden files (Binwalk)
   - Risk assessments
 
+## POC:
+- #### Account Creation:
+
+  
+ ![Image Alt](https://github.com/Harshita0502/DMZBox/blob/29af45d21ad6aaf54aeb34f78c5621d84eb50e33/Screenshots/Screenshot%202025-06-26%20223722.png)
+
+
+- #### Account Login:
+
+  
+ ![Image Alt](https://github.com/Harshita0502/DMZBox/blob/29af45d21ad6aaf54aeb34f78c5621d84eb50e33/Screenshots/Screenshot%202025-06-26%20223642.png)
+
+
+- #### DMZ Box GUI:
+
+  
+ ![Image Alt](https://github.com/Harshita0502/DMZBox/blob/29af45d21ad6aaf54aeb34f78c5621d84eb50e33/Screenshots/Screenshot%202025-06-26%20222012.png)
+
+
+ - #### Test Results:
+
+ ![Image Alt](https://github.com/Harshita0502/DMZBox/blob/29af45d21ad6aaf54aeb34f78c5621d84eb50e33/Screenshots/Screenshot%202025-06-27%20003251.png)
+
+ ![Image Alt](https://github.com/Harshita0502/DMZBox/blob/29af45d21ad6aaf54aeb34f78c5621d84eb50e33/Screenshots/Screenshot%202025-06-27%20010407.png)
+
+
 ## 👨‍💻 Key Takeaways from this Project
  - **Gained deep hands-on experience** with **sandbox technologies (Firejail)** to contain potentially malicious code.
  - Developed a **complete modular Python application**, with separation of logic, configuration, and GUI layers.
